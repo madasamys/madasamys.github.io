@@ -35,6 +35,10 @@
  * 5+ years of experience in developing web application using java technologies
  * Currently working as a Analyst Programmer with mCruncher R&D Sdn Bhd, Cyber Jaya, Malaysia. Effective from December 2011.
  
+## Academic Qualification
+
+  Master of Computer Applications at National Engineering College, Kovilpatti with 76% (2008 –2011)
+ 
 ## Copyright and License
 
 Copyright 2017 Madasamy sankarapandian. Code released under the [Apache license](https://github.com/swotge/swotge.github.io/blob/master/LICENSE) license.
