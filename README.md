@@ -38,6 +38,23 @@
 ## Academic Qualification
 
   Master of Computer Applications at National Engineering College, Kovilpatti with 76% (2008 –2011)
+  
+## Technical Experience
+
+-- | Skills
+--- | :--- | ---
+Mobile Technologies | Android and iOS
+Java Technologies		|	Java and JDBC
+JEE Technologies   |	Servlet and JPA
+|Frameworks/Libraries		|	JPA Implementation with Hibernate (3+Years), Spring (3+Years),Wicket (3+Years), JUnit (3+Years), Log4j, BootStrap (3+ year), SSHJ (1+ Years)
+Databases		|	My SQ L 5.x, MSSQL 2008 & 2012 and Realm
+Tools				|	Maven3, UML Diagram, InteliJ, Jenkins
+SCM Tools	|	 Mercurial & Git
+Messaging Queue		| 	Apache ActiveMQ
+Web/Application Servers	|	Apache Tomcat 6.x, 7.x	
+Protocols		|	TCP, HTTP, SFTP & SSH
+Code Quality Tool		| 	Sonar, Curcible
+Operating Systems		|	Windows, Linux Ubuntu 10.x, 11.x & 12.x  
  
 ## Copyright and License
 
