@@ -31,4 +31,4 @@
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2017 Madasamy sankarapandian. Code released under the [Apache license](https://github.com/swotge/swotge.github.io/blob/master/LICENSE) license.
