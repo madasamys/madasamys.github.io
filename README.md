@@ -1,26 +1,33 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [Madasamy sankarapandian](http://swotge.github.io/) 
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
-## Getting Started
+## Summary
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+ I have strong knowledge to create complex mobile application for iOS and Android. I feel comfortable working with good team of developers. I can work independently and respect a deadline. I am passionate about mobile marketing and have knowledge about.
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+## Objective
 
-## Creator
+ Utilize my knowledge for project and improve my knowledge. I am a key guy that has ability to work alone or lead a team when the need arises.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## Professional snapshot
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+  * Ability to work in agile methodology
+  * Good communication skills ability work in team
+  * Strong knowledge in Java, Android, Swift and Javascript
+  * Experience in RDBMS like SQLLITE
+  * Experience in Realm database
+  * Extensive Experience in using InteliJ and Android Studio and Xcode
+  * Testing experience of unit testing, TDD and UI automated testing
+  * Experience to create REST API using wicket framework
+  * Experience in building enterprise applications using Maven and Gradle
+  * Experience in setting up Continuous integration tools systems like Jenkins.
+  * Experience in improving the code quality using Sonar.
+  * Experience in improving the code coverage using Slather
+  * Experience in deploying business applications using application servers and web servers like Apache Tomcat
+  * Experience in using source control management tools like Mercurial and GIT
+  * Good team player with excellent work history as regards with work ethics, dependability and willingness to go an extra mile
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
