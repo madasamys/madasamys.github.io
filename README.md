@@ -41,8 +41,8 @@
   
 ## Technical Experience
 
--- | Skills
---- | :--- | ---
+ List       | Skills           
+ ------------- |:-------------:
 Mobile Technologies | Android and iOS
 Java Technologies		|	Java and JDBC
 JEE Technologies   |	Servlet and JPA
