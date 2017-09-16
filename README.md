@@ -31,8 +31,7 @@
   
 ## Professional Experience
 
- * 3+ years of IT experience in analysis, design, development, documentation, implementing and testing of apps in iOS and    Android technologies
- * 5+ years of experience in developing web application using java technologies
+ * 5+ years of IT experience in analysis, design, development, documentation, implementing and testing of apps in iOS and    Android technologies and developing web application using java technologies
  * Currently working as a Analyst Programmer with mCruncher R&D Sdn Bhd, Cyber Jaya, Malaysia. Effective from December 2011.
  
 ## Academic Qualification
